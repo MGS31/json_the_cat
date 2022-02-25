@@ -12,7 +12,7 @@ const fetchBreedDescription = function(breedName, callback) {
     }
   });
 };
-
+// credit for @rachelpr for assistance with refactoring.
 
 module.exports = {
   fetchBreedDescription
